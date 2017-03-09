@@ -1,0 +1,30 @@
+@import url(reset.css);
+
+
+@media only screen and (max-width: 768px){
+	
+	/* header*/
+	
+#logo img{
+	margin: 20px 0 0 5px;
+}
+
+#menu input{
+    width: 90px;
+    margin-right: 0px;
+}
+
+/*navigation*/
+
+#buttons{
+	padding-right: 0px;
+	text-align: center;
+}
+
+#buttons button{
+	margin-bottom: 5px;
+	width: 90px;
+}
+
+}
+
